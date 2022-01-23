@@ -37,7 +37,7 @@
 
 <pre>
 @font-face {
-    font-family: 'WandoHope';
+    font-family: 'WandoCleanSea';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaRegular.eot');
