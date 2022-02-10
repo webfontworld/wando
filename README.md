@@ -1,6 +1,6 @@
 # 완도희망체(WandoHope)
 
-<a href="https://wess.tistory.com/250" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/wando/WandoHope.jpg" alt="WandoHope" style="width:300px">
 </a>
 

@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'WandoHope';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaRegular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaRegular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaRegular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaRegular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaRegular.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'WandoCleanSea';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/wando/WandoCleanSeaBold.ttf') format("truetype");
+    font-display: swap;
+}
